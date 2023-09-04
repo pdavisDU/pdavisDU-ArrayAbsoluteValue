@@ -6,7 +6,7 @@ public class ArrayAbsoluteValue {
      * and positive numbers should stay the same.
      *
      * @param nums an array.
-     * @return the absolute value array of nums.
+     * @return the absolute value array of nums.f
      */
     public int[] getArrayAbs(int[] nums){
         int[] absArray = new int[nums.length];
